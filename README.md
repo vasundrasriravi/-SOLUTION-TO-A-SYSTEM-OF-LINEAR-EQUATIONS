@@ -23,7 +23,6 @@ A=np.array([[1,-3] ,[3,1]])
 B=np.array([0,10])
 s=np.linalg.solve(A,B)
 print(s)
-
 ```
 ## Output:
 ![solve](https://user-images.githubusercontent.com/119393983/226619129-6b93b72e-ff73-4278-b59f-e6449e64ba8f.png)
